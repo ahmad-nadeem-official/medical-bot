@@ -63,6 +63,7 @@ Check out the video below where I test the app live, showcasing the ease of use 
   <source src="vid/demo.webm" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+-------------
 **If video is not playing please go to vid/demo.webm and see raw video and or you can download from there**
 
 
