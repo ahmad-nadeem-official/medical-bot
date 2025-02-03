@@ -59,6 +59,11 @@ To get started with the project locally:
 Check out the video below where I test the app live, showcasing the ease of use and the powerful AI response generation. This will give you a clear idea of how the app works.
 
 **Watch the demo video**
+<video width="640" height="360" controls>
+  <source src="vid/demo.webm" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 🤝 Contribute
 -------------
